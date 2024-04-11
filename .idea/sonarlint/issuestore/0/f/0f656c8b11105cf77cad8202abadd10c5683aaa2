@@ -1,0 +1,37 @@
+
+΅
+java:S1104"YMake GET_LIST_USER a static final constant or non-public and provide accessors if needed.(Γαυ ύÿÿÿÿ8ΎήΨκμ1J$71b5b90b-52e2-49f5-9a4c-15e74174fc54
+
+java:S1104"\Make POST_CREATE_USER a static final constant or non-public and provide accessors if needed.(–Ξσ‘8ΏήΨκμ1J$7599e2ff-2927-4658-b1e6-20aabe953db9
+
+java:S1104"[Make PUT_UPDATE_USER a static final constant or non-public and provide accessors if needed.(ώ“ΉΟ8ΏήΨκμ1J$ef0fcf2d-cdf4-40c3-a193-3f1222d91856
+
+java:S1104"WMake DELETE_USER a static final constant or non-public and provide accessors if needed.(Ία…8ΐήΨκμ1J$1c4eed17-b7c5-4884-b676-5059d0d84ada
+—
+java:S1104"TMake REGISTER a static final constant or non-public and provide accessors if needed.(Ό’π±8ΐήΨκμ1J$59630513-3f39-4e38-ab20-1e74f9d4a54a
+”
+java:S1104"QMake LOGIN a static final constant or non-public and provide accessors if needed.(βε½ύ8ΐήΨκμ1J$c0ff4d6a-3cf7-488c-8e1b-0b8962440e59
+{
+java:S1444"3Make this "public static GET_LIST_USER" field final(Γαυ ύÿÿÿÿ8ΑήΨκμ1J$b4f789b8-8d52-4842-b551-7a9897156efd
+y
+java:S1444"6Make this "public static POST_CREATE_USER" field final(–Ξσ‘8ΑήΨκμ1J$33a79c1c-a7c8-415c-b631-d6d0ea494a54
+x
+java:S1444"5Make this "public static PUT_UPDATE_USER" field final(ώ“ΉΟ8ΑήΨκμ1J$bdf5e84f-ae5f-47f8-b12b-614c4d74ff55
+t
+java:S1444"1Make this "public static DELETE_USER" field final(Ία…8ΑήΨκμ1J$51471803-54f8-4de5-84b0-f5adfc1ef1d4
+q
+java:S1444".Make this "public static REGISTER" field final(Ό’π±8ΒήΨκμ1J$e9edae27-7918-436a-a45c-21906def71fd
+n
+java:S1444"+Make this "public static LOGIN" field final(βε½ύ8ΒήΨκμ1J$f52ea77f-bd8e-4cdf-a366-13e9fe34bf5b
+ 
+java:S3008"XRename this field "GET_LIST_USER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Γαυ ύÿÿÿÿ8•ίΨκμ1J$e8e5df57-9f89-4f23-957a-cad4fdf9903e
+
+java:S3008"[Rename this field "POST_CREATE_USER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Ξσ‘8•ίΨκμ1J$51db5b28-f541-4942-8b0f-aecbe11ad392
+
+java:S3008"ZRename this field "PUT_UPDATE_USER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ώ“ΉΟ8•ίΨκμ1J$56c690f9-fe1d-4659-a8df-e0cf13ba59d2
+™
+java:S3008"VRename this field "DELETE_USER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ία…8–ίΨκμ1J$c256166a-986a-460e-99d6-48fb784c9f17
+–
+java:S3008"SRename this field "REGISTER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ό’π±8–ίΨκμ1J$bde65524-3c05-4c8e-b1c0-8aeb59a84a00
+“
+java:S3008"PRename this field "LOGIN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(βε½ύ8–ίΨκμ1J$422a34f1-79a5-45ad-8802-6ea707fb2deb

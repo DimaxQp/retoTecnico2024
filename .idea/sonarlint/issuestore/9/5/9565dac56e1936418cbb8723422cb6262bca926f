@@ -1,0 +1,36 @@
+
+•
+java:S1104"TMake BASE_URL a static final constant or non-public and provide accessors if needed.(¦©ÓÜşÿÿÿÿJ$0b76d498-fa29-4cb0-82a3-c467e20af5d7
+”
+java:S1104"XMake JSON_REQUEST a static final constant or non-public and provide accessors if needed.(àÌíÊJ$cc82ba63-2114-446f-8617-6feaab0e7f2d
+˜
+java:S1104"WMake JSON_SCHEMA a static final constant or non-public and provide accessors if needed.(ü“ÒùúÿÿÿÿJ$86cf19d7-4abc-4c2b-b0ac-8f21e13613da
+
+java:S1104"SMake DATA_ID a static final constant or non-public and provide accessors if needed.(Ş°ãJ$89ad8e22-ecaf-4b82-9b09-00cb46ce19cd
+
+java:S1104
+"QMake ERROR a static final constant or non-public and provide accessors if needed.(—Ñê¡J$1fe641fb-52e4-4c33-b79f-b76158e14325
+o
+java:S1444".Make this "public static BASE_URL" field final(¦©ÓÜşÿÿÿÿJ$28c2f08f-83b2-41d1-aafa-ee51ec2ff193
+n
+java:S1444"2Make this "public static JSON_REQUEST" field final(àÌíÊJ$bb33ffa0-c734-4c4d-b526-5bbc97528595
+r
+java:S1444"1Make this "public static JSON_SCHEMA" field final(ü“ÒùúÿÿÿÿJ$0757aa03-d66d-451b-8de8-2f62bfc536c4
+i
+java:S1444"-Make this "public static DATA_ID" field final(Ş°ãJ$a1993cc6-3e11-4087-8f11-a360655b8b14
+g
+java:S1444
+"+Make this "public static ERROR" field final(—Ñê¡J$0bae7da8-edd7-4231-82e0-0c33617c4e07
+”
+java:S3008"SRename this field "BASE_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦©ÓÜşÿÿÿÿJ$6355e59b-c9b9-4160-b345-6c3ad1f8c847
+“
+java:S3008"WRename this field "JSON_REQUEST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÌíÊJ$0395067e-4a04-4bf4-8f72-e13568cbab5b
+—
+java:S3008"VRename this field "JSON_SCHEMA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü“ÒùúÿÿÿÿJ$2b3eab1d-20ac-4816-b17b-3c51ec9408af
+
+java:S3008"RRename this field "DATA_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş°ãJ$2eb9de6b-436b-4e5b-a61e-7b554f652d43
+Œ
+java:S3008
+"PRename this field "ERROR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Ñê¡J$cd74d662-de01-4e24-a526-1defccd59f4c
+{
+java:S1118":Add a private constructor to hide the implicit public one.(Ø¡²›ÿÿÿÿÿJ$d3f5e2b3-ba1d-4f80-a478-e09db9c413be
